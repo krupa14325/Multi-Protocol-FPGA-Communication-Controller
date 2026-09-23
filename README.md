@@ -19,7 +19,7 @@ This repository is organized into three independent protocol folders, each conta
 - [3. I2C — Inter-Integrated Circuit Bus](#3-i2c--inter-integrated-circuit-bus)
 - [Simulation Instructions](#simulation-instructions)
 - [Roadmap](#roadmap)
-- [License](#license)
+
 
 ---
 
@@ -255,6 +255,4 @@ All three protocols were verified in **ModelSim (Intel FPGA Starter Edition 10.5
 
 ---
 
-## License
 
-Specify your license here (e.g. MIT).
