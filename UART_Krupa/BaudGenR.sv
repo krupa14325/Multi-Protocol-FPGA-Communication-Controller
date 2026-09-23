@@ -1,6 +1,6 @@
 //  FILE NAME: BaudGen.v
 //  TYPE: module.
-//  DATE: 1/2/2026
+//  DATE: 23/09/2026
 //  KEYWORDS: Baud Rate, Clock Generator.
 //  PURPOSE: An RTL modelling for a 50MHz-clock gating which generates
 //  Rx clock rates corresponding to the transmitter's.
